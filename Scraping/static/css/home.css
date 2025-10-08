@@ -1,0 +1,61 @@
+.buttonk{
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    position: relative;
+}
+.buttonl{
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.cl{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(214, 210, 210);
+    box-shadow: 5px 5px 10px burlywood;
+    transition: transform 0.5s ease-in-out;
+}
+img{
+    width: 50%;
+    border-radius: 50%;
+}
+.cl:hover{
+    transform: scale(1.1);
+}
+#loading-indice{
+    margin-left: 35%;
+    display: none;
+}
+#loading-indice1{
+    margin-left: 35%;
+    display: none;
+}
+#loading-indice2{
+    margin-left: 35%;
+    display: none;
+}
+#loading-indice3{
+    margin-left: 35%;
+    display: none;
+}
+#loading-indice4{
+    margin-left: 35%;
+    display: none;
+}
+#loading-indice5{
+    margin-left: 35%;
+    display: none;
+}
+.derier{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    margin-top: 10px;
+}
